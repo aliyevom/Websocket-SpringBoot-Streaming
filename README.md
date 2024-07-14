@@ -1,9 +1,7 @@
-# Spring Boot WebSocket Live Streaming Backend
-
-The application demonstrates how to set up a WebSocket server and create a simple interface for real-time communication.
-
-
 ## Use Cases for WebSockets
+
+![Diagram](https://raw.githubusercontent.com/aliyevom/Websocket-SpringBoot-Streaming/main/src/main/resources/static/rm/diagram.png)
+
 
 WebSockets enable full-duplex communication channels over a single TCP connection, making them ideal for applications that require real-time updates and low latency. Here are some common use cases:
 
